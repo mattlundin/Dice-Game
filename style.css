@@ -67,6 +67,10 @@ h3 {
 	padding-top: 40px;
 }
 
+.dice-wrapper p {
+	text-align: center;
+}
+
 #die1,
 #die2 {
 	height: 80px;
@@ -86,6 +90,7 @@ button {
 	padding: 3px;
 	background-color: #283c86;
 	color: #fff;
+	font-size: 0.7rem;
 	font-weight: bold;
 	outline: none;
 	letter-spacing: 2px;
